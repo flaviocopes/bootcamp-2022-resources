@@ -5,176 +5,247 @@ We'll be reworking this soon, but for now, here are the links we've shared so fa
 
 ### HTML
 
-[Flavio's HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
+Start with: 
 
-[HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp?colorhex=2F4F4F)
-
-[HTML Standard](https://html.spec.whatwg.org/multipage/)
-
-[Modern HTML Explained For Dinosaurs](https://peterxjang.com/blog/modern-html-explained-for-dinosaurs.html)
-
-[Those HTML Attributes You Never Use — Smashing Magazine](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
+- [Flavio's HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
 
 ### CSS
 
-[Flavio's CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
+Start with: 
 
-[CSS - Wikipedia](https://en.m.wikipedia.org/wiki/CSS)
-
-[The Future of CSS: Cascade Layers (CSS @layer) – Bram.us](https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/)
-
-[Open Props: sub-atomic styles](https://open-props.style/)
-
-[Performance & Organization - Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/performance-organization/)
-
-[Interactive CSS Grid Generator | Layoutit Grid](https://grid.layoutit.com/)
-
-[LEC - Linear Equation to Calc()](https://renevanderlende.one/discord-stuff/ers-lineartocalc.html)
-
-[CSS Logical Properties and Values - CSS-Tricks](https://css-tricks.com/css-logical-properties-and-values/)
-
-[CSS Gradient — Generator, Maker, and Background](https://cssgradient.io/)
-
-[Font size conversion px-pt-em-rem-percent](https://websemantics.uk/tools/font-size-conversion-pixel-point-em-rem-percent/)
-
-[Detect a touch device with only CSS | by Riccardo Andreatta | Medium](https://ferie.medium.com/detect-a-touch-device-with-only-css-9f8e30fa1134)
-
-[CSS filter generator to convert from black to target hex color](https://codepen.io/sosuke/pen/Pjoqqp)
-
-[A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
-
-[CSS backgrounds](https://superdesigner.co/tools/css-backgrounds)
-
-[Modern CSS Explained For Dinosaurs](https://peterxjang.com/blog/modern-css-explained-for-dinosaurs.html)
-
-[CSS Baseline: The Good, The Bad And The Ugly — Smashing Magazine](https://www.smashingmagazine.com/2012/12/css-baseline-the-good-the-bad-and-the-ugly/)
-
-[A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-
-[CSS Clip-Path Generator - CSS Portal](https://www.cssportal.com/css-clip-path-generator/)
-
-[<css-doodle />](https://css-doodle.com/)
-
-[Understanding Layout Algorithms](https://www.joshwcomeau.com/css/understanding-layout-algorithms/)
+- [Flavio's CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 
 ### JavaScript
 
-[Flavio's JavaScript Beginner's Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+Start with:
 
-[regex101: build, test, and debug regex](https://regex101.com/)
+- [Flavio's JavaScript Beginner's Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 
-[JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
+### React
 
-[Using JavaScript's sort Method for Sorting Arrays of Numbers | DigitalOcean](https://www.digitalocean.com/community/tutorials/js-array-sort-numbers)
+Start with:
 
-[JavaScript Masterclass](https://flaviocopes.notion.site/JavaScript-Masterclass-480183160efb44beaca4b398b58bafa9)
+- [Flavio's React Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/)
 
-[Carousel with scroll snap and JS](https://codepen.io/nikhil-001mehta/pen/ExKYXba)
+<details><summary>More resources still uncategorized</summary>
+<p>
 
-[Beginner JavaScript Notes - Wes Bos](https://wesbos.com/javascript)
 
-[Browser, Editor and Terminal Setup - Beginner JavaScript - Wes Bos](https://wesbos.com/javascript/01-the-basics/browser-editor-and-terminal-setup)
+[ProfileMe.dev | Create an awesome GitHub profile in minutes](https://www.profileme.dev/)
 
-[Welcome - Beginner JavaScript - Wes Bos](https://wesbos.com/javascript/01-the-basics/welcome)
+[How to Configure Git Username and Email Address | Linuxize](https://linuxize.com/post/how-to-configure-git-username-and-email/)
 
-[GitHub - wesbos/beginner-javascript: Slam Dunk JavaScript](https://github.com/wesbos/beginner-javascript)
+[Tailwind Crash Course | Project From Scratch - YouTube](https://www.youtube.com/watch?v=dFgzHOX84xQ)
 
-[David Walsh Blog - JavaScript Consultant](https://davidwalsh.name/)
+[Tailwind CSS - Easy to setup? - YouTube](https://www.youtube.com/watch?v=RUVLnECJNrw)
 
-[Modern JavaScript Explained For Dinosaurs](https://peterxjang.com/blog/modern-javascript-explained-for-dinosaurs.html)
+[ALLES organisieren - Uni, Nebenjob, Leben + TEMPLATE (kostenlos) in Notion - YouTube](https://www.youtube.com/watch?v=mwBpUPv4IHc)
 
-[The Modern JavaScript Tutorial](https://javascript.info/)
+[node.js - Why does npm install local packages in my home directory? - Stack Overflow](https://stackoverflow.com/questions/50894761/why-does-npm-install-local-packages-in-my-home-directory)
 
-[Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.](https://flaviocopes.notion.site/JavaScript-Masterclass-480183160efb44beaca4b398b58bafa9)
+[Build configuration overview | Netlify Docs](https://docs.netlify.com/configure-builds/overview/)
 
-[Debugging Tools - Beginner JavaScript - Wes Bos](https://wesbos.com/javascript/02-functions/debugging-tools/)
-
-### Frameworks
-
-[Flavio's React Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/)
-
-[Check out this post to learn how to build a Next-powered Markdown blog and deploy it to Netlify. A great project for getting started with Next.js (tutorial using latest 9.4.4).](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/)
-
-[Getting Started | Next.js](https://nextjs.org/docs/getting-started)
-
-[Getting Started – React](https://reactjs.org/docs/getting-started.html)
-
-[From HTML to React Part 1 | Code Bushi](https://codebushi.com/html-to-react-1/)
-
-[Node.js](https://nodejs.org/en/)
-
-[Let's learn SvelteKit by building a static Markdown blog from scratch - Josh Collinsworth blog](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog)
-
-[Svelte For Beginners](https://joyofcode.xyz/svelte-for-beginners)
-
-[Free React Course for 2022](https://www.freecodecamp.org/news/free-react-course-2022/)
-
-[Let's learn SvelteKit by building a static Markdown blog from scratch - Josh Collinsworth blog](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog#returning-posts-from-an-endpoint)
-
-[Introducing Svelte, and Comparing Svelte with React and Vue - Josh Collinsworth blog](https://joshcollinsworth.com/blog/introducing-svelte-comparing-with-react-vue)
-
-[How to Implement Netlify CMS With Next.js](https://www.jakeprins.com/blog/how-to-implement-netlify-cms-with-next-js)
-
-[My Evaluation of SvelteKit for Full-Stack Web App Development - Casey Primozic's Homepage](https://cprimozic.net/blog/trying-out-sveltekit/)
+[<article>: The Article Contents element - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article)
 
 [Installation: Tailwind CLI - Tailwind CSS](https://tailwindcss.com/docs/installation)
 
-### Accessibility
+[Tailwind To CSS](https://tailwind-to-css.vercel.app/)
 
-[3 Ways We Fail to Take Accessibility Seriously | CSS-Tricks - CSS-Tricks](https://css-tricks.com/why-dont-developers-take-accessibility-seriously/)
+[How to Install npm Packages | CSS-Tricks - CSS-Tricks](https://css-tricks.com/how-to-install-npm-packages/)
 
-[Accessibility best practices for screenreader testing | by Sheri Byrne-Haber, CPACC | Medium](https://sheribyrnehaber.medium.com/accessibility-best-practices-for-screenreader-testing-e35c5df9cecb)
+[Play Flex Box Adventure – CSS Game to Learn Flexbox](https://codingfantasy.com/games/flexboxadventure)
 
-### General
+[Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/)
 
-[I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned.](https://www.google.com/amp/s/www.freecodecamp.org/news/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331/amp/)
+[The CSS Handbook](https://flaviocopes.com/page/css-handbook/)
 
-[12 Days of Web](https://12daysofweb.dev/)
+[CSS Tutorials | HTML Dog](https://htmldog.com/guides/css/)
 
-[Best Practices When Using Fonts](https://joyofcode.xyz/using-fonts-on-the-web)
+[Guides Archive - CSS-Tricks Archive - CSS-Tricks](https://css-tricks.com/guides/)
 
-[Tooltips for mobile browsers - Stack Overflow](https://stackoverflow.com/questions/12539006/tooltips-for-mobile-browsers)
+[Tailwind CSS Cheat Sheet](https://nerdcave.com/tailwind-cheat-sheet)
 
-[SVGPORN](https://svgporn.com/)
+[Pakete & Preise - Impressum-Service Anschrift.net | Unsere Anschriften](https://anschrift.net/pakete/)
 
-[For fast and secure sites | Jamstack](https://jamstack.org/)
+[shiftkey/desktop: Fork of GitHub Desktop to support various Linux distributions](https://github.com/shiftkey/desktop)
 
-[Impressum und Datenschutz auf der Website einrichten](https://www.bussgeldkatalog.org/impressum-datenschutz/)
+[Git vs. GitHub: What is the difference between them?](https://www.theserverside.com/video/Git-vs-GitHub-What-is-the-difference-between-them)
 
-[Cmder | Console Emulator](https://cmder.net/)
+[Visual Studio Code User and Workspace Settings](https://code.visualstudio.com/docs/getstarted/settings)
 
-[The best Favicon Generator (completely free) - favicon.io](https://favicon.io/)
+[Front-End Back-End Development with HTML, CSS, JavaScript, jQuery, PHP, and MySQL: Duckett, Jon: 9781119813095: Amazon.com: Books](https://www.amazon.com/Front-End-Back-End-Development-JavaScript-jQuery/dp/1119813093/ref=mp_s_a_1_3?crid=1HQDQ5URKG4H4&keywords=jon+duckett&qid=1649438334&sprefix=jon+duckett%2Caps%2C206&sr=8-3)
 
-[How to Self-Host Google Fonts on Your Own Server](https://webdesign.tutsplus.com/tutorials/how-to-self-host-google-fonts--cms-34775)
+[Git Tutorials and Training | Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
 
-[google webfonts helper](https://google-webfonts-helper.herokuapp.com/fonts)
+[Tailwind CSS IntelliSense - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
 
-[HH (Kursportal)](https://hamburg.kursportal.info/)
+[PHP & MySQL: Server-side Web Development: Duckett, Jon: 9781119149217: Amazon.com: Books](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215)
 
-[Convert a Color – HEX, RGB, HSL, CMYK](https://convertacolor.com/)
+[The complete Git guide](https://flaviocopes.com/git/)
 
-[Responsive Web Design Certification | freeCodeCamp.org](https://www.freecodecamp.org/learn/responsive-web-design/)
+[A developer's introduction to GitHub](https://flaviocopes.com/github/)
 
-[Hero Patterns | Free repeatable SVG background patterns for your web projects](https://www.heropatterns.com/)
+[Introduction to Git and GitHub](https://www.w3schools.com/git/git_intro.asp?remote=github)
 
-[Super designer](https://superdesigner.co/#tools)
+[The Web Development Bootcamp](https://bootcamp.dev/schedule/)
 
-[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/chapter0/)
+[Animation - Tailwind CSS](https://tailwindcss.com/docs/animation)
 
-[The Old Net](https://theoldnet.com/)
+[Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
 
-[HTML, CSS, and JavaScript Tutorials, References, and Articles | HTML Dog](https://htmldog.com/)
+[JTK on Twitter: "Someone reminded me today of the deep, deep emotional difficulty that comes with learning to code. The disappointment, frustration, fear, feelings of inadequacy. Fr fr emotional regulation is a soooort of huge part of learning to code. And not an easy one either" / Twitter](https://twitter.com/heyJTK/status/1511880358307975172?t=FEjfuCrKgXL2okjfp8jJ8Q&s=19)
 
-[Falling In Love With The Web: Inspiring Websites And Tools — Smashing Magazine](https://www.smashingmagazine.com/2022/02/inspiring-websites-tools/)
+[Flavio Copes Programming Handbooks](https://flaviocopes.com/page/ebooks-links/)
 
-[Frontend Developer Roadmap: Learn to become a modern frontend developer](https://roadmap.sh/frontend)
+[Favicon Generator - Image to Favicon - favicon.io](https://favicon.io/favicon-converter/)
 
-[Godly — The Best Web Design Inspiration](https://godly.website/)
+[HTML reference - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
 
-[Cookies and GDPR compliance - Support - Netlify Support Forums](https://answers.netlify.com/t/cookies-and-gdpr-compliance/42478)
+[CSS reference - CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
-[How to run a website in Germany - All About Berlin](https://allaboutberlin.com/guides/website-compliance-germany#impressum)
+[Netlify Status](https://www.netlifystatus.com/)
 
-[Customize and apply backgrounds fast | SVG Backgrounds](https://www.svgbackgrounds.com/)
+[Limits – Vercel Docs](https://vercel.com/docs/concepts/limits/overview)
 
-[Blobmaker - Make organic SVG shapes for your next design](https://www.blobmaker.app/?)
+[A Clear Definition of npm and What it Does | CSS-Tricks - CSS-Tricks](https://css-tricks.com/a-clear-definition-of-npm-and-what-it-does/)
+
+[What is npm? | Node.js](https://nodejs.org/en/knowledge/getting-started/npm/what-is-npm/)
+
+[HTML Tutorials | HTML Dog](https://htmldog.com/guides/html/)
+
+[The HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
+
+[GitHub Desktop | Simple collaboration from your desktop](https://desktop.github.com/)
+
+[Git - Revert to Specific Commit - Local & Pushed - ShellHacks](https://www.shellhacks.com/git-revert-to-specific-commit-local-pushed/)
+
+[Download | Node.js](https://nodejs.org/en/download/)
+
+[How to List Branches in Git](https://www.makeuseof.com/git-list-branch/)
+
+[Responsive design made easy - YouTube](https://www.youtube.com/watch?v=bn-DQCifeQQ)
+
+[How to Enable Push to Talk in Discord](https://www.howtogeek.com/662101/how-to-enable-push-to-talk-in-discord/)
+
+[Beginner's Guide to Discord – Discord](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide-to-Discord)
+
+[Creating a discord auto threading system](https://daily-dev-tips.com/posts/creating-a-discord-auto-threading-system/)
+
+[Move message to thread – Discord](https://support.discord.com/hc/en-us/community/posts/4405199061399-Move-message-to-thread)
+
+[Brandon Burton – Medium](https://medium.com/@BaronOfMcFarren)
+
+[One more success story from a self-taught... - DEV Community 👩‍💻👨‍💻](https://dev.to/mvqdev/one-more-success-story-from-a-self-taught-4n67)
+
+[Tailwind CSS For Absolute Beginners - YouTube](https://www.youtube.com/watch?v=j_5-LISy9Qg)
+
+[It's OK to put block elements inside an <a> tag - makandra dev](https://makandracards.com/makandra/43549-it-s-ok-to-put-block-elements-inside-an-a-tag)
+
+[Flowbite - Build websites even faster with components on top of Tailwind CSS](https://flowbite.com/)
+
+[Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+[tbaggery - A Note About Git Commit Messages](https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+
+[Should I use past or present tense in git commit messages? - Stack Overflow](https://stackoverflow.com/questions/3580013/should-i-use-past-or-present-tense-in-git-commit-messages#:~:text=The%20commit%20message%20should%20be%20imperative%2C%20present%20tense%20because%20with,used%20outside%20its%20original%20context)
+
+[initialize Repository has no response · Issue #104763 · microsoft/vscode](https://github.com/microsoft/vscode/issues/104763)
+
+[Danny Thompson on Twitter: "My biggest regret before landing my first job in tech was not having a basic understanding of Git and version control. Here are some of the most important commands you NEED TO KNOW and a step by step guide to have you comfortable with on the job tasks." / Twitter](https://twitter.com/DThompsonDev/status/1508383461639397381)
+
+[Git Guides - install git](https://github.com/git-guides/install-git)
+
+[Introduction to GitHub - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/)
+
+[WSL | Ubuntu](https://ubuntu.com/wsl)
+
+[Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/)
+
+[HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[JavaScript | Codecademy](https://www.codecademy.com/resources/docs/javascript)
+
+[Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors#adding-additional-colors)
+
+[Customizing Colors - Tailwind CSS](https://tailwindcss.com/docs/customizing-colors)
+
+[Fun with Viewport Units | CSS-Tricks - CSS-Tricks](https://css-tricks.com/fun-viewport-units/)
+
+[Tailwind UI - Official Tailwind CSS Components](https://tailwindui.com/)
+
+[Restore Terminals - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=EthanSK.restore-terminals)
+
+[Icons | Font Awesome](https://fontawesome.com/icons)
+
+[How To Install Git \*\*EASY SETUP\*\* - YouTube](https://www.youtube.com/watch?v=xoZH_4Fgwj8)
+
+[<h1>–<h6>: The HTML Section Heading elements - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+
+[Working Blind Episode 1 - Meet Florian, a Blind Programmer - Catch These Words](https://catchthesewords.com/working-blind-episode-1-meet-florian-a-blind-programmer/)
+
+[How to install Git Bash in Windows](https://www.educative.io/edpresso/how-to-install-git-bash-in-windows)
+
+[Visual Studio Code, how to switch from powershell.exe to cmd.exe - Stack Overflow](https://stackoverflow.com/questions/42729130/visual-studio-code-how-to-switch-from-powershell-exe-to-cmd-exe)
+
+[html - Is nesting a h2 tag inside another header with h1 tag semantically wrong? - Stack Overflow](https://stackoverflow.com/questions/17363465/is-nesting-a-h2-tag-inside-another-header-with-h1-tag-semantically-wrong#17371139)
+
+[\[Support Guide\] I’ve deployed my site but I still see "Page not found” - Support / Support Guides - Netlify Support Forums](https://answers.netlify.com/t/support-guide-i-ve-deployed-my-site-but-i-still-see-page-not-found/125)
+
+[Zettelkasten Method With Obsidian- How to Take Smart Notes(With Examples) | by Prakash Joshi Pax | Medium](https://beingpax.medium.com/zettelkasten-method-with-obsidian-how-to-take-smart-notes-with-examples-cdaf348febbd)
+
+[Git - Downloading Package](https://git-scm.com/download/mac)
+
+[Coding and learning with VS Code on Chromebooks](https://code.visualstudio.com/blogs/2020/12/03/chromebook-get-started)
+
+[Content Configuration - Tailwind CSS](https://tailwindcss.com/docs/content-configuration)
+
+[Tailwind Play](https://play.tailwindcss.com/)
+
+[Why You Should Choose HTML5 article Over section — Smashing Magazine](https://www.smashingmagazine.com/2020/01/html5-article-section/)
+
+[HTML section elements are a lie (sort of) - YouTube](https://www.youtube.com/watch?v=ULdkpU51hTQ)
+
+[4.4 Sections — HTML5](https://www.w3.org/TR/2013/CR-html5-20130806/sections.html#the-article-element)
+
+[Applied Accessibility: Wrap Content in the article Element | freeCodeCamp.org](https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/wrap-content-in-the-article-element)
+
+[How To: Set Default Terminal In VS Code](https://www.shanebart.com/set-default-vscode-terminal/)
+
+[Atomic commits will help you git legit. - DEV Community 👩‍💻👨‍💻](https://dev.to/paulinevos/atomic-commits-will-help-you-git-legit-35i7)
+
+[windows - 'git' is not recognized as an internal or external command - Stack Overflow](https://stackoverflow.com/questions/4492979/git-is-not-recognized-as-an-internal-or-external-command)
+
+[Beginner Tailwind](https://chrissev.gumroad.com/l/beginner-tailwind/nerds-unite)
+
+[Mariana Trench of Codewars - Among the Branches](https://katiemarie.hashnode.dev/series/codewars)
+
+[How to Fix Tailwind CSS IntelliSense in Visual Studio Code | JavaScript in Plain English](https://javascript.plainenglish.io/how-to-fix-tailwind-css-intellisense-in-visual-studio-code-3dede794df21)
+
+[GitHub Git Cheat Sheet - GitHub Cheatsheets](https://training.github.com/downloads/github-git-cheat-sheet/)
+
+[Codewars - Achieve mastery through coding practice and developer mentorship](https://www.codewars.com/)
+
+[CodingJS](https://the-winter.github.io/codingjs/)
+
+[Exercism](https://exercism.org/)
+
+[Git and GitHub Beginner Tutorial 3 - Getting started - Install Git windows - YouTube](https://www.youtube.com/watch?v=sBTAkHOxvOk)
+
+[Install Git and Github in VSCode (Visual Studio Code)](https://www.jcchouinard.com/install-git-in-vscode/)
+
+[7 Best Notion Alternatives (Open-Source and Secure)](https://notionmax.com/best-notion-alternatives/)
+
+[Visual Studio Code - Code Editing. Redefined](https://code.visualstudio.com/)
+
+[visual studio code - My TailWind CSS Intellisense plugin just isn't working on my VSCode - Stack Overflow](https://stackoverflow.com/questions/61343447/my-tailwind-css-intellisense-plugin-just-isnt-working-on-my-vscode)
+
+[Prettier · Opinionated Code Formatter](https://prettier.io/)
+
+[Turn on and off dark mode on Chrome (1-min easy guide)](https://www.wisestamp.com/blog/dark-mode-chrome/)
+
+[View In Browser - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=qinjia.view-in-browser&ssr=false)
+
+[Visual Studio code 'open in browser' extension failed - Stack Overflow](https://stackoverflow.com/questions/52739426/visual-studio-code-open-in-browser-extension-failed)
+  
+</p>
+</details>
