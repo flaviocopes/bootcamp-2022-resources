@@ -5,6 +5,8 @@ We'll be reworking this soon, but for now, here are the links we've shared so fa
 
 ### HTML
 
+[Flavio's HTML Handbook](https://www.freecodecamp.org/news/the-html-handbook/)
+
 [HTML Color Picker](https://www.w3schools.com/colors/colors_picker.asp?colorhex=2F4F4F)
 
 [HTML Standard](https://html.spec.whatwg.org/multipage/)
@@ -14,6 +16,8 @@ We'll be reworking this soon, but for now, here are the links we've shared so fa
 [Those HTML Attributes You Never Use — Smashing Magazine](https://www.smashingmagazine.com/2022/03/html-attributes-you-never-use/)
 
 ### CSS
+
+[Flavio's CSS Handbook](https://www.freecodecamp.org/news/the-css-handbook-a-handy-guide-to-css-for-developers-b56695917d11/)
 
 [CSS - Wikipedia](https://en.m.wikipedia.org/wiki/CSS)
 
@@ -55,6 +59,8 @@ We'll be reworking this soon, but for now, here are the links we've shared so fa
 
 ### JavaScript
 
+[Flavio's JavaScript Beginner's Handbook](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+
 [regex101: build, test, and debug regex](https://regex101.com/)
 
 [JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials](https://javascript30.com/)
@@ -84,6 +90,8 @@ We'll be reworking this soon, but for now, here are the links we've shared so fa
 [Debugging Tools - Beginner JavaScript - Wes Bos](https://wesbos.com/javascript/02-functions/debugging-tools/)
 
 ### Frameworks
+
+[Flavio's React Handbook](https://www.freecodecamp.org/news/react-beginner-handbook/)
 
 [Check out this post to learn how to build a Next-powered Markdown blog and deploy it to Netlify. A great project for getting started with Next.js (tutorial using latest 9.4.4).](https://www.netlify.com/blog/2020/05/04/building-a-markdown-blog-with-next-9.4-and-netlify/)
 
