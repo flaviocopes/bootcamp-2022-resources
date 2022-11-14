@@ -1,10 +1,6 @@
 # bootcamp-resources
 Collection of resources for the Bootcamp
 
-### Course Schedule
-
-- [The Web Development Bootcamp](https://bootcamp.dev/schedule/)
-
 ### HTML
 
 Start with: 
@@ -155,7 +151,7 @@ Start With:
 
 ### Books
 
-- [Flavio Copes Programming Handbooks](https://flaviocopes.com/page/ebooks-links/)
+- [Flavio Copes Programming Handbooks](https://thevalleyofcode.com)
 - [Front-End Back-End Development with HTML, CSS, JavaScript, jQuery, PHP, and MySQL: Duckett, Jon: 9781119813095: Amazon.com: Books](https://www.amazon.com/Front-End-Back-End-Development-JavaScript-jQuery/dp/1119813093/ref=mp_s_a_1_3?crid=1HQDQ5URKG4H4&keywords=jon+duckett&qid=1649438334&sprefix=jon+duckett%2Caps%2C206&sr=8-3)
 - [PHP & MySQL: Server-side Web Development: Duckett, Jon: 9781119149217: Amazon.com: Books](https://www.amazon.com/PHP-MySQL-Server-side-Web-Development/dp/1119149215)
 
